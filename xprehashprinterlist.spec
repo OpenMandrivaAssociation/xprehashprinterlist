@@ -1,6 +1,6 @@
 Name:		xprehashprinterlist
 Version:	1.0.1
-Release:	%mkrel 8
+Release:	%mkrel 9
 Summary:	Recomputes the list of available printers
 Group:		Development/X11
 Source:		http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
